@@ -34,12 +34,6 @@ To integrate blockchain:
 - Get an API key from Alchemy with the Polygon network RPC.
 - Add all API keys and the contract address to the env file in the root folder.
 
-```
-REACT_APP_APIKEY = ""
-REACT_APP_PUBLIC_NFT_STORAGE_TOKEN=""
-REACT_APP_PUBLIC_ALCHEMY_KEY=""
-REACT_APP_NFTMARKETPLACE_CONTRACT = ""
-```
 
 ## Running the Application
 
